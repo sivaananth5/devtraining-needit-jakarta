@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_push_notif_app_install">
+    <sys_push_notif_app_install action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <last_registered_on>2017-08-23 07:17:43</last_registered_on>
+        <sys_class_name>sys_push_notif_app_install</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-08-23 07:17:43</sys_created_on>
+        <sys_id>d92543f0dbb00300f9e6771ebf96193e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>eYeTo3aNSPs:APA91bHx3-qgNUeiAzBiOyNqcLb7VA8MKWA4O5do5kftEM82CRzHYrJQA6-qV-03uTFZ_JraOTCGgYgV4rpSzuh29Ah89vuH4PrC1YZCquNGPFNFEMzmi_oBV6Zn1R5_EUlaYYUe_ERG</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_push_application_id display_value="ServiceNow Mobile Application">ab704041ff1102009738ffffffffff33</sys_push_application_id>
+        <sys_push_platform_id display_value="Google">53e75f30ff0002009738ffffffffff12</sys_push_platform_id>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_push_notif_app_install_d92543f0dbb00300f9e6771ebf96193e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-08-23 07:17:43</sys_updated_on>
+        <sys_user_id display_value="Anantha Krishnan">95f07b18db600300f9e6771ebf961909</sys_user_id>
+        <token>eYeTo3aNSPs:APA91bHx3-qgNUeiAzBiOyNqcLb7VA8MKWA4O5do5kftEM82CRzHYrJQA6-qV-03uTFZ_JraOTCGgYgV4rpSzuh29Ah89vuH4PrC1YZCquNGPFNFEMzmi_oBV6Zn1R5_EUlaYYUe_ERG</token>
+    </sys_push_notif_app_install>
+</record_update>
